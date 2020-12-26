@@ -1,15 +1,50 @@
+/******************************************* ID'S *********************************/
+
+/******************************************* CLASSES *********************************/
 .top-container{
   background-color: #a3d8f4;
 }
 
-.tank-desc {
-  background-color: #19d3da;
+.middle-container {
+  text-align: center;
+  padding-top: 5%;
 }
 
-.dps-desc {
-  background-color: #ff4646;
+.icon-t {
+  color: #19d3da;
+  padding-bottom: 5%
 }
 
-.heals-desc {
-  background-color: #54e346;
+.icon-d {
+  color: #ff4646;
+  padding-bottom: 5%
+}
+
+.icon-s {
+  color: #54e346;
+  padding-bottom: 5%
+}
+
+.role {
+  padding: 7%;
+  text-align: center;
+}
+
+
+
+/******************************************* ELEMENTS *********************************/
+h3 {
+  font-family: "Montserrat";
+  font-weight: 700;
+}
+
+h2 {
+  font-family: "Montserrat";
+  font-weight: 700;
+}
+
+
+p {
+  font-family: "Ubuntu";
+  font-weight: 400;
 }
